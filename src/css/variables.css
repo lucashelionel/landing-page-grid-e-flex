@@ -1,0 +1,5 @@
+/* arquivo para difinir variaveis globais no css  */
+
+:root{
+    --max-width-size:1920px;/*192rem*/
+}
